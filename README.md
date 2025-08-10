@@ -6,3 +6,4 @@ To-Do:
 1. [ ] Better Project Structure
 2. [ ] Clients list command
 3. [ ] Some random Thread thing.
+4. [ ] Performance Optimization
